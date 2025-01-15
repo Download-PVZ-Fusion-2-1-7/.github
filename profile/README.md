@@ -53,11 +53,11 @@ PVZ Fusion 2.1.7 comes loaded with updates to improve your experience:
 ---
 
 ## How to Download PVZ Fusion 2.1.7  
-### [For Android](#)  
+### [For Android](https://pvzfusion.io/pvz-fusion-2-1-7-download)  
 - File Size: 283 MB  
 - Android Version: 5.1 or above  
 
-### [For PC](#)  
+### [For PC](https://pvzfusion.io/pvz-fusion-2-1-7-download)
 - Windows Version: Windows 8 or later (64-bit systems only)  
 - Pre-patched English version available on [Discord](https://pvzfusion.io/pvz-fusion-fans-official-discord).  
 
