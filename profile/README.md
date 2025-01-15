@@ -59,7 +59,7 @@ PVZ Fusion 2.1.7 comes loaded with updates to improve your experience:
 
 ### [For PC](#)  
 - Windows Version: Windows 8 or later (64-bit systems only)  
-- Pre-patched English version available on [Discord](#).  
+- Pre-patched English version available on [Discord](https://pvzfusion.io/pvz-fusion-fans-official-discord).  
 
 ---
 
